@@ -8,13 +8,7 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RazmikVardanyan)
 
-</div>
-
 <br>
-
-## &nbsp; Опыт
-
-<div align="center">
 
 <img src="https://img.shields.io/badge/RPA--проектов_в_ритейле-7-36BCF7?style=for-the-badge&labelColor=1a1a2e" />
 &nbsp;&nbsp;
