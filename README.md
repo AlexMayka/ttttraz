@@ -31,10 +31,10 @@
 
 </div>
 
-<div align="center">
 <table>
 <tr>
-<td align="center" width="50%" valign="top">
+<td width="50%" valign="top">
+<br>
 <h3>Постановка задач ТП</h3>
 <p>Робот на базе REST API + LLM для автоматической постановки задач торговым представителям.</p>
 <p><b>Эффект:</b> сокращение 5 дней работы отдела/мес. (~450 тыс. руб.)</p>
@@ -45,8 +45,10 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
+<br>
 </td>
-<td align="center" width="50%" valign="top">
+<td width="50%" valign="top">
+<br>
 <h3>Генерация товарных этикеток</h3>
 <p>Система автоматической генерации этикеток из Excel-файлов.</p>
 <p><b>Эффект:</b> сокращение 5 из 6 сотрудников (~1 млн руб./год)</p>
@@ -56,10 +58,12 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/PDFKit-E34F26?style=flat-square" />
 </p>
+<br>
 </td>
 </tr>
 <tr>
-<td align="center" width="50%" valign="top">
+<td width="50%" valign="top">
+<br>
 <h3>Отчеты NPS и eNPS</h3>
 <p>Два робота, анализирующих данные через LLM и генерирующих PDF-отчеты.</p>
 <p><b>Эффект:</b> снижение загрузки HR, единый стандарт отчетов</p>
@@ -70,8 +74,10 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 </p>
+<br>
 </td>
-<td align="center" width="50%" valign="top">
+<td width="50%" valign="top">
+<br>
 <h3>Бронирование слотов Ozon</h3>
 <p>Workflow для бронирования слотов в реальном времени быстрее конкурентов.</p>
 <p><b>Эффект:</b> экономия ~20 тыс. руб./мес.</p>
@@ -80,10 +86,10 @@
 <img src="https://img.shields.io/badge/n8n-0044FF?style=flat-square&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
+<br>
 </td>
 </tr>
 </table>
-</div>
 
 <br>
 
