@@ -25,18 +25,20 @@
 
 <br>
 
+<div align="center">
+
 ## &nbsp; Проекты
 
+</div>
+
+<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### Постановка задач торговым представителям
-Робот на базе REST API + LLM для автоматической постановки задач ТП.
-
-&nbsp;&nbsp;&nbsp; **Эффект:** сокращение 5 дней работы отдела/мес. (~450 тыс. руб.)
-&nbsp;&nbsp;&nbsp; Интеграция с 1С КА
-
+<td align="center" width="50%" valign="top">
+<h3>Постановка задач ТП</h3>
+<p>Робот на базе REST API + LLM для автоматической постановки задач торговым представителям.</p>
+<p><b>Эффект:</b> сокращение 5 дней работы отдела/мес. (~450 тыс. руб.)</p>
+<p>Интеграция с рабочим местом ТП в 1С КА</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" />
@@ -44,14 +46,11 @@
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 </td>
-<td width="50%" valign="top">
-
-### Генерация товарных этикеток
-Система автоматической генерации этикеток из Excel-файлов.
-
-&nbsp;&nbsp;&nbsp; **Эффект:** сокращение 5 из 6 сотрудников (~1 млн руб./год)
-&nbsp;&nbsp;&nbsp; Единый шаблон, независимость от дизайнеров
-
+<td align="center" width="50%" valign="top">
+<h3>Генерация товарных этикеток</h3>
+<p>Система автоматической генерации этикеток из Excel-файлов.</p>
+<p><b>Эффект:</b> сокращение 5 из 6 сотрудников (~1 млн руб./год)</p>
+<p>Единый шаблон, независимость от дизайнеров</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
@@ -60,14 +59,11 @@
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### Отчеты NPS и eNPS
-Два робота, анализирующих данные через LLM и генерирующих PDF-отчеты.
-
-&nbsp;&nbsp;&nbsp; **Эффект:** снижение загрузки HR, единый стандарт отчетов
-&nbsp;&nbsp;&nbsp; Дашборд Metabase + Excel-выгрузка
-
+<td align="center" width="50%" valign="top">
+<h3>Отчеты NPS и eNPS</h3>
+<p>Два робота, анализирующих данные через LLM и генерирующих PDF-отчеты.</p>
+<p><b>Эффект:</b> снижение загрузки HR, единый стандарт отчетов</p>
+<p>Дашборд Metabase + Excel-выгрузка</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
@@ -75,14 +71,11 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 </p>
 </td>
-<td width="50%" valign="top">
-
-### Бронирование слотов Ozon
-Workflow для бронирования слотов в реальном времени быстрее конкурентов.
-
-&nbsp;&nbsp;&nbsp; **Эффект:** экономия ~20 тыс. руб./мес.
-&nbsp;&nbsp;&nbsp; Интеграция Ozon API + уведомления в Bitrix24
-
+<td align="center" width="50%" valign="top">
+<h3>Бронирование слотов Ozon</h3>
+<p>Workflow для бронирования слотов в реальном времени быстрее конкурентов.</p>
+<p><b>Эффект:</b> экономия ~20 тыс. руб./мес.</p>
+<p>Интеграция Ozon API + уведомления в Bitrix24</p>
 <p>
 <img src="https://img.shields.io/badge/n8n-0044FF?style=flat-square&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -90,6 +83,7 @@ Workflow для бронирования слотов в реальном вре
 </td>
 </tr>
 </table>
+</div>
 
 <br>
 
