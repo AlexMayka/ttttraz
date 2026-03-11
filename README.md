@@ -4,25 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=70&lines=20+лет+%7C+г.+Воронеж;Автоматизирую+бизнес-процессы+и+экономлю+деньги)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/RPA--проектов_в_ритейле-7-36BCF7?style=for-the-badge&labelColor=1a1a2e" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Коммерческая_разработка-1.5_года-36BCF7?style=for-the-badge&labelColor=1a1a2e" />
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,postgres,docker,git,sqlite" />
-<br>
-<img src="https://skillicons.dev/icons?i=js" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/n8n/0044ff" width="45" height="45" alt="n8n" />
-&nbsp;
-<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="28" alt="Power BI" />
+<img src="https://skillicons.dev/icons?i=python,postgres,docker,git,sqlite,js" />
 
 </div>
 
