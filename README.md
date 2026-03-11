@@ -16,9 +16,9 @@
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| **7** завершенных RPA-проектов в ритейле | **1.5 года** коммерческой разработки |
+<img src="https://img.shields.io/badge/RPA--проектов_в_ритейле-7-36BCF7?style=for-the-badge&labelColor=1a1a2e" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Коммерческая_разработка-1.5_года-36BCF7?style=for-the-badge&labelColor=1a1a2e" />
 
 </div>
 
