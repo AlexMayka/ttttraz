@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=70&lines=20+лет+%7C+г.+Воронеж;Автоматизирую+бизнес-процессы+и+экономлю+деньги)](https://git.io/typing-svg)
 
-<img src="https://skillicons.dev/icons?i=python,postgres,docker,git,sqlite,js" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,linux,selenium,bash,js,redis" />
 
 </div>
 
