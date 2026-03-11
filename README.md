@@ -4,15 +4,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=70&lines=20+лет+%7C+г.+Воронеж;Автоматизирую+бизнес-процессы+и+экономлю+деньги)](https://git.io/typing-svg)
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rrrravv)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RazmikVardanyan)
-
-<br>
-
 <img src="https://img.shields.io/badge/RPA--проектов_в_ритейле-7-36BCF7?style=for-the-badge&labelColor=1a1a2e" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Коммерческая_разработка-1.5_года-36BCF7?style=for-the-badge&labelColor=1a1a2e" />
+
+<br>
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rrrravv)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RazmikVardanyan)
 
 </div>
 
